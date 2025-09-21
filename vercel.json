@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "task 2/AI MOOD JOURNAL/REALTIME-CHAT/nextjs-app/package.json",
+      "use": "@vercel/next",
+      "config": {
+        "projectSettings": {
+          "rootDirectory": "task 2/AI MOOD JOURNAL/REALTIME-CHAT/nextjs-app"
+        }
+      }
+    }
+  ]
+}
